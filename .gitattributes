@@ -1,0 +1,2 @@
+Proyect_cerobin/Debug/net8.0-windows/WebView2/nsedge.dll filter=lfs diff=lfs merge=lfs -text
+Proyect_cerobin/Release/net8.0-windows/WebView2/nsedge.dll filter=lfs diff=lfs merge=lfs -text
